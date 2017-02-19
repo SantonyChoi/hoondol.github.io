@@ -1,0 +1,1 @@
+<p>This web application template derives from the <a href="https://github.com/angular/angular-seed">angular-seed</a></p>
